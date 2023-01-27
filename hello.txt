@@ -7,5 +7,11 @@ git init 은 이 디렉토리를 git에서 관리하는 디렉토리로 만든�
 스테이지에 더하는 명령어
 git add 파일명
 git commit -m " "
-git config --global user.name "ydh0907"
-git config --global user.email "ydohee0907@gmail.com
+git config --global user.name "깃허브 아이디"
+git config --global user.email "이메일"
+--global 모든 작업물을 해당 계정에 올림
+없으면 이 작업물만 해당 계정에 올림
+git remote add origin (주소)
+git remote -v
+git remote remove (name) (주소)
+git push origin master
