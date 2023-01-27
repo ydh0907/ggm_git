@@ -1,0 +1,8 @@
+hello, wolrd
+Ctrl + S (save)
+Ctrl + ~ (git terminal)
+git.Ctrl + s (동결)
+git.Ctrl + c + Enter (해제)
+git init 은 이 디렉토리를 git에서 관리하는 디렉토리로 만든다
+스테이지에 더하는 명령어
+git add 파일명
