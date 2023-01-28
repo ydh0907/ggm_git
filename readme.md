@@ -1,4 +1,4 @@
-### **윤도희**
+![header](https://capsule-render.vercel.app/api?type=waving&color=4e63d6&height=280&section=header&text=윤도희&fontSize=90)
 
 
 ### **직업 : 학생**
@@ -8,7 +8,7 @@
 I추가
 
 I
-평소 경쟁을 즐기고 문학을 좋아한다. 새로운 것을 배우는 것을 즐긴다.
+평소 경쟁을 즐기고 문학을 좋아합니다. 새로운 것을 배우는 것을 즐깁니다.
 
 > 좋아하는 것 : 
 
